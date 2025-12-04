@@ -5,7 +5,7 @@ Every single line explained like you're 10 years old (but still looks pro on Git
 
 ```jsx
 import { useState } from "react";
-→ Brings in React's useState hook — lets us store and update data (like wallet address, balance) and automatically refresh the screen when it changes.
+# → Brings in React's useState hook — lets us store and update data (like wallet address, balance) and automatically refresh the screen when it changes.```jsx
 jsximport { ethers } from "ethers";
 → Imports the ethers.js library — the #1 tool to talk to Ethereum blockchain from the browser.
 jsxfunction App() {
